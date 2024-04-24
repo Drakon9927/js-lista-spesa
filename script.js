@@ -14,7 +14,7 @@ for (let i = 0; i < listaSpesa.length; i++) {
 console.log("itero gli elementi usando while");
 
 let i = 0;
-while ( i < listaSpesa.length;) {
+while ( i < listaSpesa.length) {
     const element = listaSpesa[i];
     console.log(i, element);
 
@@ -23,3 +23,6 @@ while ( i < listaSpesa.length;) {
 }
 
 console.log("i esiste ancora dopo while", i);
+
+// Inserire in un li
+
