@@ -1,2 +1,2 @@
 // Creo un Array
-listaSpesa = {uova, spinaci, carne, pesce};
+const listaSpesa = {"uova, spinaci, carne, pesce"};
